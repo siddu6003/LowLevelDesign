@@ -1,0 +1,1 @@
+Open for extension but closed for modification if class is already tested then extend the class but dont modify it

@@ -1,0 +1,2 @@
+Interfaces should be such a way that client should not implement unnecessary functions they don't need
+simple terms break down the interfaces based on similar functionality according to the behaviour of the object

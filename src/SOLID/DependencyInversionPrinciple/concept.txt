@@ -1,0 +1,3 @@
+class should depend on interfaces rather than concrete classes
+
+simple terms use interface instead of concrete class

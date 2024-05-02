@@ -1,0 +1,6 @@
+if class B is subtype of class A then we should be able to replace object A with B without braking the behaviour
+subclass should extend the capability of parent class
+
+in the code we have a Bike interface and lets say somewhere in the application we are expecting a
+Bike object which is motorcycle assume it is calling turnOnEngine it will do since motorcycle has an engine
+but when bicycle object is passed then it is throwing an error and braking the code because of exception
